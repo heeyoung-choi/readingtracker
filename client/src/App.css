@@ -1,0 +1,23 @@
+.title{
+  font-size: 30px;
+}
+.App{
+  margin: 30px;
+}
+.dropdown{
+  width: 30%;
+  position: sticky;
+}
+.item-select{
+  max-height: 200px;
+  overflow-y: scroll;
+  width: 100%;
+  position: relative;
+}
+
+.item-select div:hover{
+  background-color: bisque;
+}
+.read{
+  margin: 10px
+}
