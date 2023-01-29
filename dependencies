@@ -1,0 +1,3 @@
+Backend
+- npm install http-errors
+- npm install mysql
